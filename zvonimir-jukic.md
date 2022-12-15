@@ -1,3 +1,3 @@
-[Naslovnica](./index.html)
+[Naslovnica](./index.md)
 # Prva stranica
 Ovo je prva stranica
